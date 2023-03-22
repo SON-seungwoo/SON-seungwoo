@@ -1,8 +1,6 @@
 # SON seungwoo 😉
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSON-seungwoo&count_bg=%23398DE6&title_bg=%23398DE6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<br>
-
 # 📚 STACKS
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -27,14 +25,11 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
-<br>
 
 # 🙋‍♂️ Experience
 <h3> 아이티스쿨 정보보호 교육원
 [자바(JAVA)기반 웹&앱 개발자 양성] </h1>
 <p>2022.10 – 2023.03</p>
-
-<br>
 
 # :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:ssw971125@naver.com)
