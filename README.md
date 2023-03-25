@@ -32,4 +32,5 @@
 <p>2022.10 – 2023.03</p>
 
 ## :mailbox_with_mail: Contacts
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white%22/%3E"> <a href =https://sincere-cinema-efd.notion.site/Back-End-Developer-Web-f548094b9a2c4797b860537e9a1db734> <br>
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:ssw971125@naver.com)
