@@ -34,4 +34,4 @@
 ## :mailbox_with_mail: Contacts
 <a href =https://sincere-cinema-efd.notion.site/Hello-seungwoo-World-13ae75f2fa1f423ab81d64fb199537bb><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white%22/%3E"></a> <br>
 [![Naver Badge](https://img.shields.io/badge/ssw971125@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ssw971125@naver.com)](mailto:ssw971125@naver.com) <br>
-<img src="https://img.shields.io/badge/SON velog-20C997?style=flat-square&logo=velog&logoColor=white"/><a href =https://velog.io/@ssw971125></a> <br>
+<a href =https://velog.io/@ssw971125><img src="https://img.shields.io/badge/SON velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a> <br>
